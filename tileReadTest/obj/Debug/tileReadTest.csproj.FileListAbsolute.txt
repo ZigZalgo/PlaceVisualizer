@@ -1,0 +1,7 @@
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\bin\Debug\tileReadTest.exe.config
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\bin\Debug\tileReadTest.exe
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\bin\Debug\tileReadTest.pdb
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\obj\Debug\tileReadTest.csprojResolveAssemblyReference.cache
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\obj\Debug\tileReadTest.csproj.CoreCompileInputs.cache
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\obj\Debug\tileReadTest.exe
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\obj\Debug\tileReadTest.pdb

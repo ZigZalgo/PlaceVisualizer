@@ -1,0 +1,16 @@
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\obj\Debug\tileRead.csprojResolveAssemblyReference.cache
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\obj\Debug\tileRead.csproj.CoreCompileInputs.cache
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\bin\Debug\tileRead.exe.config
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\bin\Debug\tileRead.exe
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\bin\Debug\tileRead.pdb
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\obj\Debug\tileRead.exe
+C:\Users\Cooper\source\repos\tileReadTest\tileReadTest\obj\Debug\tileRead.pdb
+C:\Users\Cooper\Documents\CPSC683\Visualizer\tileReadTest\bin\Debug\tileRead.exe.config
+C:\Users\Cooper\Documents\CPSC683\Visualizer\tileReadTest\bin\Debug\tileRead.exe
+C:\Users\Cooper\Documents\CPSC683\Visualizer\tileReadTest\bin\Debug\tileRead.pdb
+C:\Users\Cooper\Documents\CPSC683\Visualizer\tileReadTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cooper\Documents\CPSC683\Visualizer\tileReadTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cooper\Documents\CPSC683\Visualizer\tileReadTest\obj\Debug\tileRead.csprojResolveAssemblyReference.cache
+C:\Users\Cooper\Documents\CPSC683\Visualizer\tileReadTest\obj\Debug\tileRead.csproj.CoreCompileInputs.cache
+C:\Users\Cooper\Documents\CPSC683\Visualizer\tileReadTest\obj\Debug\tileRead.exe
+C:\Users\Cooper\Documents\CPSC683\Visualizer\tileReadTest\obj\Debug\tileRead.pdb
